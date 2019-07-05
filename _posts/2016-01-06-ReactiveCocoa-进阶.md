@@ -322,3 +322,14 @@ $$
 * if nominal problem has n variables, 1 constraints; then RLP-ref: n+L variables, 2L+1 constraints
 * if nominal problem has n variables, m constraints; then RLP-ref: n+mL variables, m(2L+1) constraints
 
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
