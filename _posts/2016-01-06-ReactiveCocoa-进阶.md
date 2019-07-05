@@ -11,9 +11,11 @@ tags:
     - Robust Optimization
 ---
 
-# 6.25 Why and what Robust Optimization? (RO)
-* 为了解决decision under uncertainty的问题
-## RO与SO的数学表达
+# 前言
+* 这篇文章是根据我2019年6月在湖南大学参加的暑期课程的笔记所整理的，在此特别感谢[Yehua Wei老师](https://www.bc.edu/content/dam/bc1/schools/carroll/faculty/PDFs/Wei,%20Yehua%20CV.pdf)的分享。
+* RO是为了解决decision under uncertainty的问题而诞生的。
+
+# RO与SO的数学表达
 * RO
     * RO又可以分为single stage和多阶段
     * $x$决策变量，有个名字叫做“here and now” decision，选了之后就不再考虑，在多阶段中比较重要
